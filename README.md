@@ -1,5 +1,6 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas. Aprendendo e evoluindo um commit de cada vez.
+Estudante de Análise e Desenvolvimento de Sistemas. 
+Aprendendo e evoluindo um commit de cada vez.
 
 
 ## 🌐 Socials:
